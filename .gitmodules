@@ -1,0 +1,9 @@
+[submodule "mockWayz"]
+	path = mockWayz
+	url = https://github.com/LucasMSF/mockWayz
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LucasMSF/mockWayz
+[submodule "frontend-spa"]
+	path = frontend-spa
+	url = https://github.com/LucasMSF/mockwayz-web-vue
